@@ -1,0 +1,4 @@
+localPackages
+=============
+
+meteorite local packages
