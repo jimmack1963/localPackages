@@ -1,1 +1,1 @@
-@MyName = 'Jim';
+this.MyName = 'Jim';
