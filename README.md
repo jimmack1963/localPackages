@@ -1,4 +1,0 @@
-localPackages
-=============
-
-meteorite local packages
