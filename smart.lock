@@ -1,5 +1,9 @@
 {
-  "meteor": {},
+  "meteor": {
+    "git": "https://github.com/meteor/meteor.git",
+    "tag": "release/0.6.5.1",
+    "commit": "6a4216f16fe2c469e63fe5876e2f733ef771389a"
+  },
   "dependencies": {
     "basePackages": {},
     "packages": {}

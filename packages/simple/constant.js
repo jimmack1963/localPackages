@@ -1,1 +1,1 @@
-this.MyName = 'Jim';
+MyName = 'Jim';
